@@ -23,8 +23,12 @@ Failed Update might be for the following reason:
 
 * The search key/value is not matching with the selected column value.
 <<<<<<< HEAD
+<<<<<<< HEAD
 * The data in CSV is same as in the Database.
 =======
+>>>>>>> 7217fca02afc281db6aba564140915008d1c84a8
+=======
+* The data in CSV same as in the Database.
 >>>>>>> 7217fca02afc281db6aba564140915008d1c84a8
 
 
@@ -32,8 +36,12 @@ Failed Update might be for the following reason:
 ## Versioning
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 For transparency and insight into our release cycle, and for striving to maintain backward compatibility, Punch will be maintained under the Semantic Versioning guidelines as much as possible.
 =======
+>>>>>>> 7217fca02afc281db6aba564140915008d1c84a8
+=======
+For transparency and insight into our release cycle, and for striving to maintain backward compatibility, Bootstrap will be maintained under the Semantic Versioning guidelines as much as possible.
 >>>>>>> 7217fca02afc281db6aba564140915008d1c84a8
 
 Releases will be numbered with the following format:
@@ -78,6 +86,10 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 <<<<<<< HEAD
+<<<<<<< HEAD
 limitations under the License.
 =======
+>>>>>>> 7217fca02afc281db6aba564140915008d1c84a8
+=======
+limitations under the License.
 >>>>>>> 7217fca02afc281db6aba564140915008d1c84a8
