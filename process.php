@@ -151,7 +151,7 @@ if(!empty($_POST)){
 									echo "<th>".$data[$j][$dk]."</th>";
 									$cnt = $cnt + 1;
 								}
-								$table = 'products';
+								$table = DB_TABLE;
 
 								$op = update_simple($table,$data_op,"WHERE ".$where);
 								if($op){
